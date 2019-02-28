@@ -17,4 +17,9 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+	implementation 'net.sourceforge.nekohtml:nekohtml'
+	implementation 'org.springframework.boot:spring-boot-devtools'
+	//implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter', version: '1.3.3'
+//	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf:2.0.7.RELEASE'
 }
